@@ -1,6 +1,6 @@
-# 🚀 TechieLearns – AI-Powered Learning Platform
+# 🚀 TechieLearn – AI-Powered Learning Platform
 
-**TechieLearns** is an AI-powered learning platform (Android App + Web) designed to deliver **structured, bite-sized, and personalized tech education** with a modern, engaging user experience.
+**TechieLearn** is an AI-powered learning platform (Android App + Web) designed to deliver **structured, bite-sized, and personalized tech education** with a modern, engaging user experience.
 
 The platform focuses on making learning **fast, intuitive, and addictive in a productive way**, similar to short-form content consumption.
 
@@ -51,10 +51,10 @@ The platform focuses on making learning **fast, intuitive, and addictive in a pr
 ## 🌐 Live Platform
 
 * 🌍 **Website**
-  [https://techielearns.com](https://techielearns.com)
+  [https://techielearn.com](https://techielearn.com)
 
 * 📲 **Android App**
-  [https://play.google.com/store/apps/details?id=in.TechieLearns.app](https://play.google.com/store/apps/details?id=in.techielearn.app)
+  [https://play.google.com/store/apps/details?id=in.techielearn.app](https://play.google.com/store/apps/details?id=in.techielearn.app)
 
 
 
@@ -103,10 +103,10 @@ To create a **modern learning platform** where:
 ## 🌐 Live Platform
 
 * 🌍 **Website**
-  [https://techielearns.com](https://techielearns.com)
+  [https://techielearn.com](https://techielearn.com)
 
 * 📲 **Android App**
-  [https://play.google.com/store/apps/details?id=in.TechieLearns.app](https://play.google.com/store/apps/details?id=in.techielearn.app)
+  [https://play.google.com/store/apps/details?id=in.techielearn.app](https://play.google.com/store/apps/details?id=in.techielearn.app)
 
 
 ---
