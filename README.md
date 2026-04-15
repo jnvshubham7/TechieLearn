@@ -61,24 +61,22 @@ The platform focuses on making learning **fast, intuitive, and addictive in a pr
 ---
 
 ## 📸 Screenshots
-<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/a7d50b71-4d2c-42b4-a53d-21d68cf55664" />
-<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/04478e90-b605-497d-b45e-680f28fff45a" />
+<img width="1920" height="1080" alt="Screenshot (2644)" src="https://github.com/user-attachments/assets/f0424932-705c-4c5c-a0b7-f42b61922a88" />
+<img width="1920" height="1080" alt="Screenshot (2646)" src="https://github.com/user-attachments/assets/034d09c3-1182-40dc-b7fa-6f53b0fb06f3" />
+<img width="2762" height="1377" alt="1_2_3_4" src="https://github.com/user-attachments/assets/322c27e4-4c05-4981-a695-d2d3300d7fa8" />
+<img width="2762" height="1377" alt="5_6_7_8" src="https://github.com/user-attachments/assets/3448ccb0-fcba-4cd0-b67f-4a4529d8bd1f" />
+<img width="1920" height="1080" alt="Screenshot (2964)" src="https://github.com/user-attachments/assets/436f3af6-a939-4fb8-a189-caaecdab3ab5" />
+<img width="1920" height="1080" alt="Screenshot (2965)" src="https://github.com/user-attachments/assets/7f3a1fdb-8ebd-4789-970d-0381e520995b" />
 
-![2](https://github.com/user-attachments/assets/6a9714bd-b3ab-4714-a536-1ffcc2feca2c)
-![3](https://github.com/user-attachments/assets/f823b15d-0dc0-4491-af16-b81efd588112)
+<img width="1920" height="1080" alt="Screenshot (2953)" src="https://github.com/user-attachments/assets/b60e4b8f-bb62-4c24-99ee-77e44b8fc6ca" />
+<img width="1920" height="1080" alt="Screenshot (2955)" src="https://github.com/user-attachments/assets/5f66c4bc-a67e-4635-987e-8e188193d6d8" />
+<img width="1920" height="1080" alt="Screenshot (2956)" src="https://github.com/user-attachments/assets/6befad1a-f310-4902-a91f-eb7a315c9d9f" />
+<img width="1920" height="1080" alt="Screenshot (2957)" src="https://github.com/user-attachments/assets/28660bfe-a1a8-42da-945d-e93976432866" />
+<img width="1920" height="1080" alt="Screenshot (2958)" src="https://github.com/user-attachments/assets/19a36a5a-680b-4061-b81f-92d090cc9e95" />
+<img width="1920" height="1080" alt="Screenshot (2960)" src="https://github.com/user-attachments/assets/ee7c350a-3f43-4bcc-af26-e5d51abadd61" />
+<img width="1920" height="1080" alt="Screenshot (2961)" src="https://github.com/user-attachments/assets/6b348e6e-15b6-4795-8273-bc0f4f9c6dff" />
 
 
-<img width="1920" height="1080" alt="4_1" src="https://github.com/user-attachments/assets/9c2ed27f-d94c-45dc-b519-431b4bcdeeb9" />
-<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/7de52952-8bb3-4f93-906c-7b8657ba5a0b" />
-
-<img width="1920" height="1080" alt="13" src="https://github.com/user-attachments/assets/26b43c77-d15c-42cc-a3ca-933d4d4a6e76" />
-<img width="1920" height="1080" alt="11" src="https://github.com/user-attachments/assets/29460007-b41f-4e14-9617-3882301303c0" />
-<img width="1920" height="1080" alt="10" src="https://github.com/user-attachments/assets/395a59ab-aacd-4dbd-9566-d386a623c4f1" />
-<img width="1920" height="1080" alt="9" src="https://github.com/user-attachments/assets/6195bd88-9e20-4ec0-bc7f-ee42390f8d2f" />
-<img width="1920" height="1080" alt="8" src="https://github.com/user-attachments/assets/40a0ca55-f08f-458e-b99a-855cd69bd957" />
-<img width="1920" height="1080" alt="6_1" src="https://github.com/user-attachments/assets/15c9b24d-6f2e-4285-b01b-3f28f0b409b9" />
-
-<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/85c7b508-fb73-4725-9ccf-7d78adf6ed07" />
 
 ---
 
